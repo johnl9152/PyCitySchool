@@ -11,8 +11,11 @@ Maria is in charge of schools' student success in her district. She oversees how
 - https://github.com/johnl9152/School_District_Analysis/blob/main/PyCitySchools_Challenge_starter_code.ipynb
 
 ## Results
+https://github.com/johnl9152/School_District_Analysis/blob/main/Resources/District%20Summary%20Initial.png
+https://github.com/johnl9152/School_District_Analysis/blob/main/Resources/District%20Summary%20Final.png
 
 ### How is the District Summary Affected?
+
 ### How is the School Summary Affected?
 ### How does Replacing the Ninth Graders' Math and Reading Scores Affect Thomas High School's Performance Relative to the Other Schools?
 ### How does Replacing the Ninth-Grade Scores Affect the Following:
