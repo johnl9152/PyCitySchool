@@ -11,8 +11,11 @@ Maria is in charge of schools' student success in her district. She oversees how
 - https://github.com/johnl9152/School_District_Analysis/blob/main/PyCitySchools_Challenge_starter_code.ipynb
 
 ## Results
-https://github.com/johnl9152/School_District_Analysis/blob/main/Resources/District%20Summary%20Initial.png
-https://github.com/johnl9152/School_District_Analysis/blob/main/Resources/District%20Summary%20Final.png
+
+![District Summary Initial](https://user-images.githubusercontent.com/92328984/142243821-ca3a1f82-229b-4b2c-8aa6-82905da67982.png)
+
+![District Summary Final](https://user-images.githubusercontent.com/92328984/142243879-fef19f77-cd2e-4697-995b-e1a65f9d04c6.png)
+
 
 ### How is the District Summary Affected?
 
