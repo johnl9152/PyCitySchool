@@ -12,14 +12,18 @@ Maria is in charge of schools' student success in her district. She oversees how
 
 ## Results
 
+### How is the District Summary Affected?
+District Summary Initial
 ![District Summary Initial](https://user-images.githubusercontent.com/92328984/142243821-ca3a1f82-229b-4b2c-8aa6-82905da67982.png)
 
+District Summary Final
 ![District Summary Final](https://user-images.githubusercontent.com/92328984/142243879-fef19f77-cd2e-4697-995b-e1a65f9d04c6.png)
 
-
-### How is the District Summary Affected?
+As shown on the image above, there is a minute difference between the two images. The average math score decreased after update by  0.1%, the percent passing math decreased by 0.2%, the percent passing reading decreased by 0.3%, and the percent overall passing decreased by 0.1%. Even though these changes are small, there is some negative effect after the analysis has been updated from the initial analysis.
 
 ### How is the School Summary Affected?
+
+
 ### How does Replacing the Ninth Graders' Math and Reading Scores Affect Thomas High School's Performance Relative to the Other Schools?
 ### How does Replacing the Ninth-Grade Scores Affect the Following:
 
