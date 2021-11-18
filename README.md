@@ -58,3 +58,7 @@ With the school summary images above, the district officials can see a big diffe
 
 ## Summary
 In the end, Maria came to a conclusion that the nullified grade made a big dent to Thomas High School's ranking and the reputation for the school and its management system. There are four changes in the updated school district analysis that resulted through the nullification of ninth-grade students' math and reading grades.
+1. The biggest changes that Maria could find that charter schools perform better than district schools. When the data for scores by school type, charter schools have higher overall passing scores and testing scores.
+2. School size also have a hugh impact on test scores. If one school is bigger than the other, it has larger pool of student population and would decrease the test score and overall passing rate depending on the school funding and district/charter.
+3. Through the NaN method of eliminating academic dishonesty of Thomas High School, Maria can see that there is a big change between the initial analys and final analysis, which final analysis portrayed the true data for the district schools.
+4. Despite all three changes that are true, school spending did not particularly affect the math and reading scores.
