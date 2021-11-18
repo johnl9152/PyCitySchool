@@ -19,15 +19,27 @@ District Summary Initial
 District Summary Final
 ![District Summary Final](https://user-images.githubusercontent.com/92328984/142243879-fef19f77-cd2e-4697-995b-e1a65f9d04c6.png)
 
-As shown on the image above, there is a minute difference between the two images. The average math score decreased after update by  0.1%, the percent passing math decreased by 0.2%, the percent passing reading decreased by 0.3%, and the percent overall passing decreased by 0.1%. Even though these changes are small, there is some negative effect after the analysis has been updated from the initial analysis.
+As shown in the images above, the only changes happened from the initial to the final and updated are the average math score, percentage passing for math, percentage passing for reading, and percentage overall passing. The changes were 0.1% decrease in the average math score, 0.2% decrease in the percentage of passing for math, 0.3% decrease in the percentage of passing for reading, and 0.1% decrease in the percentage of overall passing. Through these trends of decrease from initial to final analysis of Thomas High School, there has been tempering with math and reading grades.
 
 ### How is the School Summary Affected?
+School Summary Initial
+![School Summary Initial](https://user-images.githubusercontent.com/92328984/142334377-a58001c7-4fb0-4508-a772-0b8182dae874.png)
 
+School Summary Final
+![School Summary Final](https://user-images.githubusercontent.com/92328984/142334396-6b4e766a-3483-48d7-89bd-7ff9d78e8aa5.png)
+
+
+As shown in the images above, Thomas High School’s average math and reading scores were altered. Even though there were minute changes in the average math and reading scores, the percentage of students passing math and reading were greatly and negatively affected, resulting in significant decrease of percentage of overall passing. There is about 27% decrease in passing rate for math and reading. For overall, there is about 25% decrease for Thomas High School.
 
 ### How does Replacing the Ninth Graders' Math and Reading Scores Affect Thomas High School's Performance Relative to the Other Schools?
+
+With the school summary images above, the district officials can see a big difference through nullifying the entire ninth-grades’ math and reading scores. Thomas High School’s rank for overall passing jumped down from 2nd highest overall passing to 8th highest overall passing out of 15 schools in the district. The school’s rating dropped From being in the top 15% of the quartile to the bottom half of the rating.
+
 ### How does Replacing the Ninth-Grade Scores Affect the Following:
 
 - Math and Reading Scores by Grade
+  Both scores were nullified due to the academic dishonesty for the ninth-grade class in Thomas High School. The results were       reflected to the overall passing grade in the school summary.
+  
 - Scores by School Spending
 - Scores by School Size
 - Scores by School Type
