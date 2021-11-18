@@ -42,12 +42,12 @@ With the school summary images above, the district officials can see a big diffe
   
 - Scores by School Spending
   - The spending range for Thomas High School per student is in the range of $60 - $644. The first picture is the initial school spending before the district officials found out about Thomas High School's academic dishonesty. The second picture is the school spending after adjustment of Thomas High School
-![School Spending Initial](https://user-images.githubusercontent.com/92328984/142337190-703afe1a-a676-48eb-86e8-1eb674b34f1b.png)
+![School Spending Initial](https://user-images.githubusercontent.com/92328984/142349212-caf487b9-d07a-416b-829e-a41b8f057dbd.png)
 ![School Spending Final](https://user-images.githubusercontent.com/92328984/142337373-023d5885-447c-4ba6-9808-aec171f5ff82.png)
 
 - Scores by School Size
   - As shown below, Thomas High School has about 1000 to 2000 students, which makes it a medium size school in the district. The first picture shows the initial analysis of Thomas High School; however, in the second picture, both math and reading passing percentage were dropped by 6%.
-![School Size Initial](https://user-images.githubusercontent.com/92328984/142343468-d0887cf6-8ea7-43a8-94df-70511fe9f77f.png)
+![School Size Initial](https://user-images.githubusercontent.com/92328984/142349246-2fe044bf-5f93-424f-ba06-8c96e16ad09b.png)
 ![School Size Final](https://user-images.githubusercontent.com/92328984/142343472-4c52b5c8-24f8-4af1-8d2e-78a1964a2fa7.png)
 
 - Scores by School Type
