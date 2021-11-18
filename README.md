@@ -38,7 +38,7 @@ With the school summary images above, the district officials can see a big diffe
 ### How does Replacing the Ninth-Grade Scores Affect the Following:
 
 - Math and Reading Scores by Grade
-  Both scores were nullified due to the academic dishonesty for the ninth-grade class in Thomas High School. The results were       reflected to the overall passing grade in the school summary.
+  - Both scores were nullified due to the academic dishonesty for the ninth-grade class in Thomas High School. The results were       reflected to the overall passing grade in the school summary.
   
 - Scores by School Spending
 - Scores by School Size
