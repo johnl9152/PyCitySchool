@@ -41,6 +41,9 @@ With the school summary images above, the district officials can see a big diffe
   - Both scores were nullified due to the academic dishonesty for the ninth-grade class in Thomas High School. The results were       reflected to the overall passing grade in the school summary.
   
 - Scores by School Spending
+  - ![School Summary Initial](https://user-images.githubusercontent.com/92328984/142337060-19542d3f-bf68-4f91-922b-7b4bebe3c4e6.png)
+  Hello
+
 - Scores by School Size
 - Scores by School Type
 
