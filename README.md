@@ -41,15 +41,20 @@ With the school summary images above, the district officials can see a big diffe
   - Both scores were nullified due to the academic dishonesty for the ninth-grade class in Thomas High School. The results were       reflected to the overall passing grade in the school summary.
   
 - Scores by School Spending
-  - The spending range for Thomas High School per student is in the range of $60 - $644. The first picture is the initial school spending before the district officials found out about Thomas High School's academic dishonesty. The second picture is the school spending after adjustment of Thomas High School
+  - The spending range for Thomas High School per student is in the range of $630 - $644. The first picture is the initial school spending before the district officials found out about Thomas High School's academic dishonesty. The second picture is the school spending after adjustment of Thomas High School There was a significant drop in percentage for overall students passing.
 ![School Spending Initial](https://user-images.githubusercontent.com/92328984/142349212-caf487b9-d07a-416b-829e-a41b8f057dbd.png)
 ![School Spending Final](https://user-images.githubusercontent.com/92328984/142337373-023d5885-447c-4ba6-9808-aec171f5ff82.png)
 
 - Scores by School Size
-  - As shown below, Thomas High School has about 1000 to 2000 students, which makes it a medium size school in the district. The first picture shows the initial analysis of Thomas High School; however, in the second picture, both math and reading passing percentage were dropped by 6%.
+  - As shown below, Thomas High School has about 1000 to 2000 students, which makes it a medium size school in the district. The first picture shows the initial analysis of Thomas High School; however, in the second picture, both math and reading passing percentage were dropped by 4%. The first picture shows the initial analysis of school size, and the second picture shows the final analysis of school size.
 ![School Size Initial](https://user-images.githubusercontent.com/92328984/142349246-2fe044bf-5f93-424f-ba06-8c96e16ad09b.png)
 ![School Size Final](https://user-images.githubusercontent.com/92328984/142343472-4c52b5c8-24f8-4af1-8d2e-78a1964a2fa7.png)
 
 - Scores by School Type
+  - Throughout the analysis, the Charter schools outperformed the district school; therefore, the nullified ninth-grade really doesn't do much to increase the overall passing percent for students in the district school. The first picture shows the initial analysis and the second picture shows the final analysis.
+![School Type Initial](https://user-images.githubusercontent.com/92328984/142351775-e4e64b86-ea39-4a47-8a7b-621125f11765.png)
+![School Type Final](https://user-images.githubusercontent.com/92328984/142351780-32ec30d9-5be5-4738-a321-cae9270c8778.png)
+
 
 ## Summary
+In the end, Maria came to a conclusion that the nullified grade made a big dent to Thomas High School's ranking and the reputation for the school and its management system. There are four changes in the updated school district analysis that resulted through the nullification of ninth-grade students' math and reading grades.
